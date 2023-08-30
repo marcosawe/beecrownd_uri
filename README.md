@@ -39,6 +39,8 @@ Aproveite os exercícios e mergulhe no mundo da programação com Ruby!
 
 Happy coding! 🚀
 
-```
-Lembre-se de personalizar as seções, URLs e detalhes de contato conforme necessário. Esse README fornecerá uma introdução clara ao propósito do repositório, suas funcionalidades e como os programadores podem contribuir e usar os exercícios para aprender e praticar Ruby.
-```
+## Informações para contato
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://maresduardo420@gmail.com)
+[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534999739226&text=Ol%C3%A1%2C%20tudo%20bem%3F%3F%20Vim%20do%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/___marcaobr)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosawe/)
